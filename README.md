@@ -13,7 +13,19 @@ This repository tracks my weekly coding practice and learning as I work through 
 - **Analyze Financial Data with Python** (March–April 2025)
 
 ## 🗂️ Structure
-<pre> ```kotlin data-practice-journal/ ├── analyze-financial-data/ │ ├── codecademy/ │ │ └── 2025-04-08_analyzing-stock-data.ipynb │ └── personal/ ├── notes/ # (currently excluded via .gitignore) ├── assets/ │ └── .gitkeep ├── README.md ``` </pre>
+
+```kotlin
+data-practice-journal/
+├── analyze-financial-data/
+│   ├── codecademy/
+│   │   └── 2025-04-08_analyzing-stock-data.ipynb
+│   └── personal/
+├── notes/                         # (currently excluded via .gitignore)
+├── assets/
+│   └── .gitkeep
+├── README.md
+```
+
 
 🗒️ The notes/ folder is currently excluded from version control via .gitignore to allow for private, in-progress learning notebooks. Public-facing summaries or cleaned versions may be added here in the future.
 

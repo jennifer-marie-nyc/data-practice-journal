@@ -7,3 +7,9 @@ notes/*.ipynb
 
 # Local-only scratch file for experiments and throwaway code
 scratchpad.py
+
+# macOS system files
+.DS_Store
+
+# Jupyter autosaves
+**/.ipynb_checkpoints/

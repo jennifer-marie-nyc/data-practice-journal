@@ -1,5 +1,9 @@
 # Data Practice Journal 🧠📊
 
+![Python](https://img.shields.io/badge/code-python-blue)
+![Jupyter](https://img.shields.io/badge/environment-jupyter-lightgrey)
+![Status](https://img.shields.io/badge/progress-weekly_commit_tracking-green)
+
 This repository tracks my weekly coding practice and learning as I work through Codecademy’s data-related courses (Spring 2025 and beyond).
 
 ## 📌 Purpose
@@ -8,24 +12,20 @@ This repository tracks my weekly coding practice and learning as I work through 
 - Develop habits around thoughtful, consistent coding
 - Build toward polished projects and storytelling
 
+---
+
+## 🧰 Languages & Tools
+
+- **Languages**: Python, SQL, Markdown  
+- **Tools**: Jupyter Notebook, Git, VSCode  
+- **Libraries**: math, NumPy, pandas (coming soon), Matplotlib/Seaborn (future visualizations)
+
+---
 
 ## 📚 Current Courses
 - **Analyze Financial Data with Python** (March–April 2025)
 
-## 🗂️ Structure
-
-```kotlin
-data-practice-journal/
-├── analyze-financial-data/
-│   ├── codecademy/
-│   │   └── 2025-04-08_analyzing-stock-data.ipynb
-│   └── personal/
-├── notes/                         # (currently excluded via .gitignore)
-├── assets/
-│   └── .gitkeep
-├── README.md
-```
-
+---
 
 🗒️ The notes/ folder is currently excluded from version control via .gitignore to allow for private, in-progress learning notebooks. Public-facing summaries or cleaned versions may be added here in the future.
 

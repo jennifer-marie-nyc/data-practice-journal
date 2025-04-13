@@ -1,0 +1,9 @@
+# Ignore all Jupyter notebooks in the notes directory
+notes/*.ipynb
+
+# Explicitly include any notebooks intended for public sharing
+# (e.g., learning summaries, cleaned-up references)
+!notes/public_*.ipynb
+
+# Local-only scratch file for experiments and throwaway code
+scratchpad.py

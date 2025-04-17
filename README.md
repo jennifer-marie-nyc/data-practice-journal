@@ -12,20 +12,9 @@ This repository tracks my weekly coding practice and learning as I work through 
 - Develop habits around thoughtful, consistent coding
 - Build toward polished projects and storytelling
 
----
-
-## 🧰 Languages & Tools
-
-- **Languages**: Python, SQL, Markdown  
-- **Tools**: Jupyter Notebook, Git, VSCode  
-- **Libraries**: math, NumPy, pandas (coming soon), Matplotlib/Seaborn (future visualizations)
-
----
 
 ## 📚 Current Courses
 - **Analyze Financial Data with Python** (March–April 2025)
-
----
 
 ## 🗂️ Structure
 
@@ -33,7 +22,10 @@ This repository tracks my weekly coding practice and learning as I work through 
 data-practice-journal/
 ├── analyze-financial-data/
 │   ├── codecademy/
-│   │   └── 2025-04-08_analyzing-stock-data.ipynb
+│   │   ├── python-intro/
+│   │   │   └── 2025-04-08_analyzing-stock-data.ipynb
+│   │   └── numpy-intro/
+│   │       └── 2025-04-18_numpy-practice.ipynb
 │   └── personal/
 ├── notes/                         # (currently excluded via .gitignore)
 ├── assets/

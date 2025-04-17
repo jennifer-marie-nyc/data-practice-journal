@@ -37,26 +37,27 @@ data-practice-journal/
 🗒️ The notes/ folder is currently excluded from version control via .gitignore to allow for private, in-progress learning notebooks. Public-facing summaries or cleaned versions may be added here in the future.
 
 
-## ⚙️ Setup
-To run these notebooks locally:
-# 1. Clone the repo
-git clone https://github.com/jennifer-marie-nyc/data-practice-journal.git
-cd data-practice-journal
-
-# 2. Install required packages
-pip install -r requirements.txt
-
-# 3. Launch Jupyter Lab
-jupyter lab
-
-This repo uses a simplified requirements.txt to keep things lightweight (jupyterlab, numpy, and later, additional packages as needed).
-
-
 ### Folder Descriptions
 
 - `analyze-financial-data/` → Practice notebooks from the Codecademy course
 - `notes/` → Personal notes, comparisons, and learning references
 - `assets/` → Images and plots for future visualizations
+
+---
+
+## ⚙️ Setup
+To run these notebooks locally:
+### 1. Clone the repo
+git clone https://github.com/jennifer-marie-nyc/data-practice-journal.git
+cd data-practice-journal
+
+### 2. Install required packages
+pip install -r requirements.txt
+
+### 3. Launch Jupyter Lab
+jupyter lab
+
+This repo uses a simplified requirements.txt to keep things lightweight (jupyterlab, numpy, and later, additional packages as needed).
 
 ---
 

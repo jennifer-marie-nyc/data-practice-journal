@@ -26,6 +26,7 @@ data-practice-journal/
 │   │   │   └── 2025-04-08_analyzing-stock-data.ipynb
 │   │   └── numpy-intro/
 │   │       └── 2025-04-18_numpy-practice.ipynb
+│   │       └── 2025-04-19_numpy-arrays-bettys-bakery.ipynb
 │   └── personal/
 ├── notes/                         # (currently excluded via .gitignore)
 ├── assets/

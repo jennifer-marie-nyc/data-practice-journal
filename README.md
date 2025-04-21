@@ -20,18 +20,20 @@ This repository tracks my weekly coding practice and learning as I work through 
 
 ```kotlin
 data-practice-journal/
-├── analyze-financial-data/
-│   ├── codecademy/
-│   │   ├── python-intro/
-│   │   │   └── 2025-04-08_analyzing-stock-data.ipynb
-│   │   └── numpy-intro/
-│   │       └── 2025-04-18_numpy-practice.ipynb
-│   │       └── 2025-04-19_numpy-arrays-bettys-bakery.ipynb
-│   └── personal/
-├── notes/                         # (currently excluded via .gitignore)
+├── analyze-financial-data-python/
+│   ├── numpy-intro/
+│   │   ├── 2025-04-18_numpy-practice.ipynb
+│   │   ├── 2025-04-19_numpy-arrays-bettys-bakery.ipynb
+│   │   ├── 2025-04-20_numpy-reit-analysis.ipynb
+│   │   └── recipes.csv
+│   ├── python-intro/
+│   │   └── 2025-04-08_analyzing-stock-data.ipynb
+│   ├── scratchpad.py
+│   └── notes/                    # excluded via .gitignore
 ├── assets/
 │   └── .gitkeep
 ├── README.md
+└── requirements.txt
 ```
 
 

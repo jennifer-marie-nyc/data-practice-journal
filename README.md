@@ -23,9 +23,13 @@ data-practice-journal/
 ├── analyze-financial-data-python/
 │   ├── numpy-intro/
 │   │   ├── 2025-04-18_numpy-practice.ipynb
-│   │   ├── 2025-04-19_numpy-arrays-bettys-bakery.ipynb
-│   │   ├── 2025-04-20_numpy-reit-analysis.ipynb
-│   │   └── recipes.csv
+│   │   ├── bettys-bakery/
+│   │   │   ├── 2025-04-19_numpy-arrays-bettys-bakery.ipynb
+│   │   │   └── recipes.csv
+│   │   ├── reit-analysis/
+│   │   │   ├── 2025-04-20_numpy-reit-analysis.ipynb
+│   │   │   ├── EQR.csv
+│   │   │   ├── SBRA.csv
 │   ├── python-intro/
 │   │   └── 2025-04-08_analyzing-stock-data.ipynb
 │   ├── scratchpad.py

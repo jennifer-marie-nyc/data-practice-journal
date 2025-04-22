@@ -1,6 +1,9 @@
 # Ignore all Jupyter notebooks in the notes directory
 notes/*.ipynb
 
+# Exclude scratch area used for temp code, solution notebooks, etc.
+scratch/
+
 # Explicitly include any notebooks intended for public sharing
 # (e.g., learning summaries, cleaned-up references)
 !notes/public_*.ipynb

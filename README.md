@@ -29,6 +29,8 @@ data-practice-journal/
 │   │   └── bettys-bakery/
 │   │       ├── 2025-04-19_numpy-arrays-bettys-bakery.ipynb
 │   │       └── recipes.csv
+│   ├── pandas-intro/
+│   │   └── 2025-04-22_pandas-practice-notes.ipynb
 │   ├── python-intro/
 │   │   └── 2025-04-08_analyzing-stock-data.ipynb
 │   ├── scratchpad.py
